@@ -1,0 +1,13 @@
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\bin\Debug\myBank.exe.config
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\obj\Debug\myBank.csprojResolveAssemblyReference.cache
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\obj\Debug\myBank.Customer.resources
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\obj\Debug\myBank.Transactions.resources
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\obj\Debug\myBank.csproj.GenerateResource.Cache
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\bin\Debug\myBank.exe
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\bin\Debug\myBank.pdb
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\obj\Debug\myBank.exe
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\obj\Debug\myBank.pdb
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\obj\Debug\myBank.DepositSlip.resources
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\obj\Debug\myBank.ChangePinNo.resources
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\obj\Debug\myBank.DashboardMyBank.resources
+D:\2nd_semester_lab\DDOOCP(KR)\myBank\myBank\obj\Debug\myBank.Properties.Resources.resources
